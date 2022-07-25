@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-1. [What is CI/CD?](1.What-is-CICD?.md)
+1. [What is CI/CD?](1.What-is-CICD.md)
 2. [Lint](2.Lint.md)
 3. [How to write test code](3.How-to-write-test-code.md)
 4. [How to deploy](4.How-to-deploy.md)
